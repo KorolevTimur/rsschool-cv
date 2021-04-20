@@ -1,14 +1,14 @@
-Johnny Coder
+Timur Korolev
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+email: timurkorolev89@gmail.com
+telegram: https://t.me/koromur
+discord: koromur#5863
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2013-2019 
+:   SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL
