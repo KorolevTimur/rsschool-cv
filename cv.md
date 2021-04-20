@@ -2,9 +2,9 @@ Timur Korolev
 ============
 
 -------------------     ----------------------------
-email: timurkorolev89@gmail.com
-telegram: https://t.me/koromur
-discord: koromur#5863
+email: timurkorolev89@gmail.com  
+telegram: https://t.me/koromur   
+discord: koromur#5863   
 -------------------     ----------------------------
 
 Education
